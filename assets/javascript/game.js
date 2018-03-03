@@ -199,4 +199,4 @@ $(document).ready(function () {
         setGreenCrystalRandomNumber();
     }
 
-});
+})
